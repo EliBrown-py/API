@@ -60,7 +60,6 @@ h1 {
 }
 
 #searchWrapper::after {
-    content: '🔍';
     position: absolute;
     top: 7px;
     right: 15px;
